@@ -1,2 +1,3 @@
 Hello git !
 today's 10th feb 2023.
+studying github.
